@@ -1,7 +1,7 @@
 {
   "name": "spec-team-toolkit",
-  "version": "0.1.0",
-  "description": "HLD and LLD document builders for the spec team: discovers and scopes a High Level Design with self-QA before customer delivery, and turns a Figma component into a two-part LLD spec for developers/QA.",
+  "version": "0.2.0",
+  "description": "HLD and LLD document builders for the spec team: builds a High Level Design incrementally across sessions with a fixed discovery script and self-QA before customer delivery, and turns a Figma component into a two-part LLD spec for developers/QA.",
   "author": {
     "name": "Spec Team"
   }
